@@ -5,7 +5,7 @@
 **Your secrets shouldn't end up in your terminal, your logs, or your commit history.**
 **SecretShield makes sure they don't — automatically.**
 
-[![PyPI version](https://img.shields.io/pypi/v/secretshield?color=blue)](https://pypi.org/project/secretshield/)
+[![PyPI version](https://img.shields.io/pypi/v/secretshield?color=blue)](https://pypi.org/project/secretshield/) 
 [![Python versions](https://img.shields.io/pypi/pyversions/secretshield)](https://pypi.org/project/secretshield/)
 [![PyPI Downloads](https://api.pepy.tech/badge/secretshield/month)](https://pypi.org/project/secretshield/)
 [![License: MIT](https://img.shields.io/pypi/l/secretshield)](LICENSE)
