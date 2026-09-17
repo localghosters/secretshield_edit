@@ -353,3 +353,8 @@ If you find this project useful, consider [supporting its development through Gi
 
 MIT — see [LICENSE](LICENSE).
 
+
+
+---
+SHOULD ADD CONTRIBUTING.md
+
