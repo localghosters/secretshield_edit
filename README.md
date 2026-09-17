@@ -356,5 +356,8 @@ MIT — see [LICENSE](LICENSE).
 
 
 ---
-SHOULD ADD CONTRIBUTING.md
-
+## CHANGES/FUTURE IMPROVEMENTS - 
+* SHOULD ADD CONTRIBUTING.md
+* Add test files to .secretshieldignore
+* fix formatting
+* add .toml file demo to this repo
