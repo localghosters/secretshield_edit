@@ -9,6 +9,7 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/secretshield)](https://pypi.org/project/secretshield/)
 [![PyPI Downloads](https://api.pepy.tech/badge/secretshield/month)](https://pypi.org/project/secretshield/)
 [![License: MIT](https://img.shields.io/pypi/l/secretshield)](LICENSE)
+[![.github/workflows/secretshield.yml](https://github.com/localghosters/secretshield_edit/actions/workflows/secretshield.yml/badge.svg)](https://github.com/localghosters/secretshield_edit/actions/workflows/secretshield.yml)
 
 [Install](#installation) · [Demo](#demo) · [Quick start](#quick-start) · [Features](#what-secretshield-does) · [Docs below](#cli-reference)
 
