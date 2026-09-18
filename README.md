@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ SecretShield
+# 🛡️ SecretShield 
 
 **Your secrets shouldn't end up in your terminal, your logs, or your commit history.**
 **SecretShield makes sure they don't — automatically.**
