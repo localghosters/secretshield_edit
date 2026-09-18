@@ -7,7 +7,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/secretshield?color=blue)](https://pypi.org/project/secretshield/)
 [![Python versions](https://img.shields.io/pypi/pyversions/secretshield)](https://pypi.org/project/secretshield/)
-[![PyPI Downloads](https://api.pepy.tech/badge/secretshield/month)](https://pypi.org/project/secretshield/)
+[![PyPI Downloads (According to pepy.tech)](https://api.pepy.tech/badge/secretshield/month)](https://pypi.org/project/secretshield/)
 [![License: MIT](https://img.shields.io/pypi/l/secretshield)](LICENSE)
 [![.github/workflows/secretshield.yml](https://github.com/localghosters/secretshield_edit/actions/workflows/secretshield.yml/badge.svg)](https://github.com/localghosters/secretshield_edit/actions/workflows/secretshield.yml)
 
